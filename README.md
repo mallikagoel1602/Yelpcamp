@@ -48,14 +48,6 @@
  
 ## Getting Started
 
-> This app contains API secrets and passwords that have been hidden deliberately, so the app cannot be run with its features on your local machine. However, feel free to clone this repository if necessary.
-
-### Clone or download this repository
-
-```sh
-git clone https://github.com/lucasweng/yelp-camp.git
-```
-
 ### Install dependencies
 
 ```sh
@@ -67,11 +59,6 @@ or
 ```sh
 yarn install
 ```
-
-### Comments in code
-
-Some comments in the source code are course notes and therefore might not seem necessary from a developer's point of view.
-
 ## Built with
 
 ### Front-end
